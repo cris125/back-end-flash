@@ -1,0 +1,9 @@
+{
+"url-backend": "127.0.0.1",
+"port": 9999,
+
+
+"data-db-connection": "mongodb+srv://Cris123:Nhna9eIV81zczcg4@cluster0.15omvml.mongodb.net/?retryWrites=true&w=majority",
+
+"name-db": "Cluster0"
+}
